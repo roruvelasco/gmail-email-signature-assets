@@ -2,7 +2,7 @@
 
 ## Assets and links
 
-The GitHub, LinkedIn, and phone links are already filled in. The local `pfp.jpg` and icon PNGs are included for preview and for uploading through Gmail's image controls.
+The GitHub, LinkedIn, and phone links are already filled in. Use `pfp-circle.png` for the profile image; it is pre-cropped with transparent corners so it remains circular even if Gmail removes CSS styling. The original `pfp.jpg` and icon PNGs are also included.
 
 ## Gmail installation
 
@@ -10,7 +10,7 @@ The GitHub, LinkedIn, and phone links are already filled in. The local `pfp.jpg`
 2. Select only the rendered signature and copy it.
 3. In Gmail, open Settings → See all settings → General → Signature.
 4. Create a new signature and paste the rendered signature.
-5. In Gmail, replace the profile image and each icon with the matching uploaded file using Gmail's **Insert image** control. Keep the surrounding table cells and icon circles.
+5. In Gmail, replace the profile image with `pfp-circle.png`, then replace each icon with the matching PNG using Gmail's **Insert image** control. Keep the surrounding table cells and icon circles.
 6. Reapply the GitHub, LinkedIn, and phone links after replacing each image.
 7. Set it as the default if desired and send a test email.
 

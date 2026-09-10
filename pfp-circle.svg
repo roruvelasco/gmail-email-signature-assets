@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="78" viewBox="0 0 78 78">
+  <defs>
+    <clipPath id="profile-circle">
+      <circle cx="39" cy="39" r="37" />
+    </clipPath>
+  </defs>
+  <image href="pfp.jpg" x="2" y="2" width="74" height="74" preserveAspectRatio="xMidYMid slice" clip-path="url(#profile-circle)" />
+  <circle cx="39" cy="39" r="37.5" fill="none" stroke="#9CA3AF" stroke-width="1" />
+</svg>
