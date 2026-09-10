@@ -16,4 +16,4 @@ The GitHub, LinkedIn, and phone links are already filled in. Use `pfp-circle.png
 
 ## Design notes
 
-The signature uses a compact table layout with inline styles for Gmail and common email-client compatibility. The outer layout is transparent so it adapts better to light and dark message backgrounds. GitHub, LinkedIn, and Phone use white Lucide-derived PNGs on maroon circles, which keeps the icon contrast stable when dark-mode transformations occur. There is no JavaScript, icon font, or runtime library.
+The signature uses a compact, 600px maximum table layout with inline styles for Gmail and common email-client compatibility. The leadership affiliation uses the supplied short form `UPLB COSS` to avoid unnecessary wrapping. The outer layout is transparent so it adapts better to light and dark message backgrounds. GitHub, LinkedIn, and Phone use white Lucide-derived PNGs on maroon circles, which keeps the icon contrast stable when dark-mode transformations occur. There is no JavaScript, icon font, or runtime library.
